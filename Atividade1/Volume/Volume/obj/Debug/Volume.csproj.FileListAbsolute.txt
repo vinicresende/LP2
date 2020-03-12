@@ -1,0 +1,9 @@
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\bin\Debug\Volume.exe.config
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\bin\Debug\Volume.exe
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\bin\Debug\Volume.pdb
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\obj\Debug\Volume.csprojResolveAssemblyReference.cache
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\obj\Debug\Volume.Form1.resources
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\obj\Debug\Volume.Properties.Resources.resources
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\obj\Debug\Volume.csproj.GenerateResource.Cache
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\obj\Debug\Volume.exe
+Q:\LP2\Projeto 2\Volume Cilindro\Volume\Volume\obj\Debug\Volume.pdb
