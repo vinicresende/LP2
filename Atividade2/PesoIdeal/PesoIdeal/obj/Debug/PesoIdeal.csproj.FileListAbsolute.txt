@@ -1,0 +1,9 @@
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.pdb
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csprojAssemblyReference.cache
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.cache
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.exe
+D:\Vinicius\FATEC\LP2\Atividade2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.pdb
