@@ -1,0 +1,9 @@
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\bin\Debug\triangulo.exe.config
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\bin\Debug\triangulo.exe
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\bin\Debug\triangulo.pdb
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\obj\Debug\triangulo.csprojAssemblyReference.cache
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\obj\Debug\triangulo.Form1.resources
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\obj\Debug\triangulo.Properties.Resources.resources
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\obj\Debug\triangulo.csproj.GenerateResource.cache
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\obj\Debug\triangulo.exe
+D:\Vinicius\FATEC\LP2\Atividade 3\triangulo\triangulo\obj\Debug\triangulo.pdb
