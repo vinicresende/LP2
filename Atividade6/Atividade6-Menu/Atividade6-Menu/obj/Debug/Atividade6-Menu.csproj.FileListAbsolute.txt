@@ -1,0 +1,13 @@
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\bin\Debug\Atividade6-Menu.exe.config
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\bin\Debug\Atividade6-Menu.exe
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\bin\Debug\Atividade6-Menu.pdb
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6-Menu.csprojAssemblyReference.cache
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6_Menu.frmPrincipal.resources
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6_Menu.Properties.Resources.resources
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6-Menu.csproj.GenerateResource.cache
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6-Menu.exe
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6-Menu.pdb
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6_Menu.frmExercicio1.resources
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6_Menu.frmExercicio2.resources
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6_Menu.frmExercicio3.resources
+D:\Vinicius\FATEC\LP2\Atividade6\Atividade6-Menu\Atividade6-Menu\obj\Debug\Atividade6_Menu.frmExercicio4.resources
