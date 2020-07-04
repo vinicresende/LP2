@@ -1,0 +1,12 @@
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\bin\Release\PALUNO.exe.config
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\bin\Release\PALUNO.exe
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\bin\Release\PALUNO.pdb
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.csprojAssemblyReference.cache
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.frmPrincipal.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.frmAluno.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.frmCidade.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.frmSobre.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.Properties.Resources.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.csproj.GenerateResource.cache
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.exe
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Release\PALUNO.pdb

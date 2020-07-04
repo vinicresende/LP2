@@ -1,0 +1,12 @@
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\bin\Debug\PALUNO.exe
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.csprojAssemblyReference.cache
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.frmPrincipal.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.cache
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.exe
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.pdb
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.frmCidade.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.frmAluno.resources
+D:\Vinicius\FATEC\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.frmSobre.resources
